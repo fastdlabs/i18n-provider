@@ -1,0 +1,2 @@
+# erros
+FastD error codes.
