@@ -7,7 +7,7 @@
  * @see      http://www.fast-d.cn/
  */
 
-namespace FastD\i18n\Console;
+namespace FastD\i18nProvider\Console;
 
 
 use FastD\i18n\ServiceProvider\i18NServiceProvider;

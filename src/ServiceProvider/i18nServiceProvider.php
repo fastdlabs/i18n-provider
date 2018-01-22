@@ -7,12 +7,12 @@
  * @see      http://www.fast-d.cn/
  */
 
-namespace FastD\i18n\ServiceProvider;
+namespace FastD\i18nProvider\ServiceProvider;
 
 
 use FastD\Container\Container;
 use FastD\Container\ServiceProviderInterface;
-use FastD\i18n\Console\i18nConsole;
+use FastD\i18nProvider\Console\i18nConsole;
 use Symfony\Component\Translation\Loader\YamlFileLoader;
 use Symfony\Component\Translation\Translator;
 
